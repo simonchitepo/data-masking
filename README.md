@@ -170,8 +170,6 @@ Sensitive data (emails, credit cards, personal info) is often:
 
 ## 🏗️ Architecture & Data Flow
 
-## UML Class Diagram
-![class](image-1.png)
 ## UML Component Architecture
 ![component](image-2.png)
 ## State Management Flow
